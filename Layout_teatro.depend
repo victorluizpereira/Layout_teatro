@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543793348 source:/home/victor-lp/Downloads/Layout_teatro/main.c
+	<stdio.h>
+	<stdlib.h>
+	<gconio.h>
+
